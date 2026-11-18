@@ -43,7 +43,7 @@ This project analyses customer churn and revenue patterns using the IBM Telco Cu
 
 The data for this project is sourced from the Kaggle dataset:
 
-- **Dataset Link:** IBM Telco Customer Churn
+- **Dataset Link:** [IBM Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn/notebooks?utm_source=chatgpt.com)
 
 The dataset contains customer-level information covering demographics, account details, subscribed services, billing information and churn status.
 
