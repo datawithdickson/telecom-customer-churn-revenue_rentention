@@ -1,10 +1,6 @@
 # Telecom Customer Churn & Revenue Retention Analysis
 
-## Logo Image
-
-<!-- Add your project logo or cover image link here -->
-<!-- ![Project Logo](YOUR_LOGO_IMAGE_LINK) -->
-
+[!Project Cover](https://github.com/datawithdickson/telecom-customer-churn-revenue_rentention/blob/main/thedigitalartist-earth-3866609_1920.jpg)
 
 ## Project Components
 
