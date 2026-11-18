@@ -81,7 +81,6 @@ Initial exploration was performed to understand the dataset's structure, dimensi
 - Checked dataset dimensions using `df.shape`.
 - Inspected column names, non-null counts and data types using `df.info()`.
 - Generated descriptive statistics using `df.describe()`.
-
 ```python
 df.head()
 df.tail()
@@ -89,9 +88,7 @@ df.shape
 df.info()
 df.describe()
 ```
-
 The initial exploration identified 7,043 records and 21 columns.
-
 
 ### Task 4: Data Cleaning
 
@@ -158,14 +155,12 @@ df['Partner'].value_counts()
 df['Dependents'].value_counts()
 ```
 
-
 ### Task 5: Data Analysis
 
 The analysis was divided into two sections:
 
 - Section A: Exploratory Data Analysis (EDA)
 - Section B: Business Questions
-
 
 ### Section A: Exploratory Data Analysis (EDA)
 
@@ -257,11 +252,9 @@ df[['SeniorCitizen', 'tenure',
     'MonthlyCharges', 'TotalCharges']].corr()
 ```
 
-
 ### Section B: Business Questions
 
 The following business questions guided the detailed analysis.
-
 
 #### Q1. What is the overall customer churn rate?
 
@@ -286,7 +279,6 @@ plt.title('Customer Churn Distribution')
 plt.show()
 ```
 
-
 #### Q2. What is the company's total monthly revenue?
 
 Calculated total monthly revenue by summing the monthly charges across all customers.
@@ -302,7 +294,6 @@ plt.title('Distribution of Monthly Charges')
 plt.ylabel('Number of Customers')
 plt.show()
 ```
-
 
 #### Q3. Which customer segments have the highest churn rates?
 
@@ -324,9 +315,6 @@ for column in demographic_columns:
     print(f"\nChurn Rate by {column}:")
     print(churn_rate.round(2))
 ```
-
-Bar charts were also created to compare churn rates across the demographic segments.
-
 
 #### Q4. How does tenure influence customer churn?
 
@@ -353,7 +341,6 @@ churn_by_tenure = df.groupby(
 print(churn_by_tenure.round(2))
 ```
 
-
 #### Q5. Which contract types experience the highest churn?
 
 Calculated churn rates across month-to-month, one-year and two-year contracts.
@@ -365,9 +352,6 @@ churn_by_contract = df.groupby('Contract')['Churn'].apply(
 
 print(churn_by_contract.round(2))
 ```
-
-A count plot was also created to examine customer distribution across contract types and tenure groups.
-
 
 #### Q6. Does payment method relate to customer churn?
 
@@ -394,7 +378,6 @@ plt.ylabel('Churn Rate (%)')
 
 plt.show()
 ```
-
 
 #### Q7. Which customer segments generate the highest revenue?
 
@@ -423,7 +406,6 @@ print(revenue_by_partner)
 print(revenue_by_dependents)
 ```
 
-
 #### Q8. How does average monthly spending differ between churned and retained customers?
 
 Calculated and compared average monthly charges according to customer churn status.
@@ -448,7 +430,6 @@ plt.ylabel('Average Monthly Charges ($)')
 plt.show()
 ```
 
-
 #### Q9. Does having additional services relate to customer retention?
 
 Investigated churn rates among customers with different additional services, including online security, online backup, device protection, tech support, streaming TV and streaming movies.
@@ -471,9 +452,6 @@ for column in service_columns:
     print(f'\nChurn Rate by {column}:')
     print(churn_rate.round(2))
 ```
-
-Visual comparisons were created to examine churn rates across the service categories.
-
 
 #### Q10. Which customer characteristics are most strongly associated with churn?
 
@@ -512,7 +490,6 @@ plt.tight_layout()
 plt.show()
 ```
 
-
 #### Q11. What strategies could management implement to reduce customer churn?
 
 Based on the findings from the preceding business questions, the following management strategies were proposed:
@@ -530,7 +507,6 @@ Based on the findings from the preceding business questions, the following manag
 | Customers without dependents generate the largest aggregate monthly revenue among the demographic groups analysed. | Monitor revenue contributions across customer segments and develop appropriate retention initiatives. |
 
 These strategies are recommendations based on observed patterns in the dataset. Their effectiveness would need to be tested and monitored before drawing conclusions about their impact.
-
 
 ## Findings
 
@@ -615,7 +591,6 @@ Tenure had the strongest negative correlation with churn among the numerical var
 
 These correlations indicate associations, not proof of causation.
 
-
 ## Reports
 
 The project includes the following analytical deliverables:
@@ -629,10 +604,9 @@ The project includes the following analytical deliverables:
 
 **Project Files:**
 - [Python Analysis Notebook](Python/IBM.ipynb)
-- [Power BI Dashboard](Dashboard/IBM%20telecom%20project.pbix)
+- [Power BI Report](Dashboard/IBM%20telecom%20project.pbix)
 - [Dashboard Preview](Dashboard/Dashboard.png)
 - [Dataset](Data/WA_Fn-UseC_-Telco-Customer-Churn.csv)
-
 
 ## Conclusion
 
