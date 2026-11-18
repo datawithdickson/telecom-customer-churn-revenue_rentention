@@ -69,7 +69,6 @@ The dataset was loaded into a Pandas DataFrame for analysis.
 df = pd.read_csv('WA_Fn-UseC_-Telco-Customer-Churn.csv')
 ```
 
-
 ### Task 3: Initial Exploration
 
 Initial exploration was performed to understand the dataset's structure, dimensions, data types, statistical characteristics and sample records.
