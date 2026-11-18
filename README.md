@@ -16,18 +16,10 @@ Python was used for data loading, cleaning, exploratory data analysis, statistic
 ### 2. Power BI
 Power BI was used to develop an interactive dashboard for monitoring customer churn, retention and revenue performance.
 
+### Power BI Dashboard 
 
-## Power BI Dashboard
-
-### Dashboard Preview
-
-<!-- Add your dashboard preview image link here -->
-<!-- ![Power BI Dashboard](YOUR_DASHBOARD_PREVIEW_LINK) -->
-
-### Download the Power BI Report
-
-[Download Power BI Dashboard (.pbix)](Dashboard/IBM%20telecom%20project.pbix)
-
+- [Dashboard preview](https://github.com/datawithdickson/telecom-customer-churn-revenue_rentention/blob/main/Dashboard.png)
+- [Download Power BI Dashboard (.pbix)](Dashboard/IBM%20telecom%20project.pbix)
 
 ## Overview
 
