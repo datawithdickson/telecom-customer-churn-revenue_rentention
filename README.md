@@ -598,12 +598,6 @@ The project includes the following analytical deliverables:
 | Dashboard Preview | Image showing the Power BI dashboard. |
 | Original Dataset | IBM Telco Customer Churn customer-level dataset. |
 
-**Project Files:**
-- [Python Analysis Notebook](Python/IBM.ipynb)
-- [Power BI Report](Dashboard/IBM%20telecom%20project.pbix)
-- [Dashboard Preview](Dashboard/Dashboard.png)
-- [Dataset](Data/WA_Fn-UseC_-Telco-Customer-Churn.csv)
-
 ## Conclusion
 
 The analysis indicates that customer churn is associated with several customer characteristics and account related factors. New customers, month-to-month contract subscribers, electronic check users and customers without additional services represent important areas for further investigation.
