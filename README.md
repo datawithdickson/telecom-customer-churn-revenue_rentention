@@ -49,8 +49,7 @@ The data for this project is sourced from the Kaggle dataset:
 
 The project was carried out in Jupyter Notebook through five main tasks, followed by exploratory data analysis and investigations into eleven business questions.
 
-### Task 1: Importing Libraries
-
+### Task 1: Importing Libraries 
 The following Python libraries were imported for data manipulation, numerical operations and visualisation.
 
 ```python
