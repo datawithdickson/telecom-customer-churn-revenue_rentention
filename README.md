@@ -587,8 +587,6 @@ The correlation analysis identified the following relationships with churn:
 
 Tenure had the strongest negative correlation with churn among the numerical variables examined. Monthly charges had a positive correlation, while total charges had a negative correlation.
 
-These correlations indicate associations, not proof of causation.
-
 ## Reports
 
 The project includes the following analytical deliverables:
@@ -597,7 +595,7 @@ The project includes the following analytical deliverables:
 |---|---|
 | Python Jupyter Notebook | Data cleaning, exploratory data analysis, visualisations and business question investigations. |
 | Power BI Dashboard | Interactive presentation of customer churn, retention and revenue metrics. |
-| Dashboard Preview | Static image showing the Power BI dashboard. |
+| Dashboard Preview | Image showing the Power BI dashboard. |
 | Original Dataset | IBM Telco Customer Churn customer-level dataset. |
 
 **Project Files:**
@@ -608,7 +606,7 @@ The project includes the following analytical deliverables:
 
 ## Conclusion
 
-The analysis indicates that customer churn is associated with several customer characteristics and account-related factors. New customers, month-to-month contract subscribers, electronic check users and customers without additional services represent important areas for further investigation.
+The analysis indicates that customer churn is associated with several customer characteristics and account related factors. New customers, month-to-month contract subscribers, electronic check users and customers without additional services represent important areas for further investigation.
 
 The findings also show that churned customers have higher average monthly charges than retained customers, highlighting the importance of understanding customer value perceptions and pricing.
 
