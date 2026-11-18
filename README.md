@@ -45,39 +45,6 @@ The data for this project is sourced from the Kaggle dataset:
 
 - **Dataset Link:** [IBM Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn/notebooks?utm_source=chatgpt.com)
 
-The dataset contains customer-level information covering demographics, account details, subscribed services, billing information and churn status.
-
-**Dataset size:**
-- 7,043 customer records
-- 21 columns
-
-**Key variables include:**
-- CustomerID
-- Gender
-- SeniorCitizen
-- Partner
-- Dependents
-- Tenure
-- PhoneService
-- InternetService
-- OnlineSecurity
-- OnlineBackup
-- DeviceProtection
-- TechSupport
-- StreamingTV
-- StreamingMovies
-- Contract
-- PaperlessBilling
-- PaymentMethod
-- MonthlyCharges
-- TotalCharges
-- Churn
-
-**Dataset Link:**
-
-[View Dataset](Data/WA_Fn-UseC_-Telco-Customer-Churn.csv)
-
-
 ## Project Structure
 
 The project was carried out in Jupyter Notebook through five main tasks, followed by exploratory data analysis and investigations into eleven business questions.
