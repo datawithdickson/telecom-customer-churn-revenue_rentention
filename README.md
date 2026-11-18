@@ -30,7 +30,7 @@ This project analyses customer churn and revenue patterns using the IBM Telco Cu
 - Explore the dataset structure, variables and summary statistics.
 - Clean and prepare the data for analysis.
 - Perform exploratory data analysis on customer demographics, accounts, services and billing.
-- Investigate eleven business questions related to customer churn, retention and revenue.
+- Investigate business questions related to customer churn, retention and revenue.
 - Translate the findings into practical customer-retention recommendations.
 
 
