@@ -18,7 +18,7 @@ Power BI was used to develop an interactive dashboard for monitoring customer ch
 
 ### Power BI Dashboard 
 
-- [Dashboard preview](https://github.com/datawithdickson/telecom-customer-churn-revenue_rentention/blob/main/Dashboard.png)
+- [Dashboard preview](https://github.com/datawithdickson/telecom-customer-churn-revenue_rentention/blob/main/Dashboard/Dashboard.png)
 - [Download the Power BI report (.pbix)](https://github.com/datawithdickson/telecom-customer-churn-revenue_rentention/blob/main/IBM%20telecom%20project.pbix)
 
 ## Overview 
