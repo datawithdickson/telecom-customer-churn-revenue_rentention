@@ -62,7 +62,6 @@ import seaborn as sns
 %matplotlib inline
 ```
 
-
 ### Task 2: Loading the Dataset
 
 The dataset was loaded into a Pandas DataFrame for analysis.
