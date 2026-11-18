@@ -19,7 +19,7 @@ Power BI was used to develop an interactive dashboard for monitoring customer ch
 ### Power BI Dashboard 
 
 - [Dashboard preview](https://github.com/datawithdickson/telecom-customer-churn-revenue_rentention/blob/main/Dashboard/Dashboard.png)
-- [Download the Power BI report (https://github.com/datawithdickson/telecom-customer-churn-revenue_rentention/blob/main/Dashboard/IBM%20telecom%20project.pbix)
+- [Download the Power BI report](https://github.com/datawithdickson/telecom-customer-churn-revenue_rentention/blob/main/Dashboard/IBM%20telecom%20project.pbix)
 
 ## Overview 
 This project analyses customer churn and revenue patterns using the IBM Telco Customer Churn dataset. The analysis explores customer demographics, account information, subscribed services, payment methods and billing behaviour to identify characteristics associated with customer churn.
