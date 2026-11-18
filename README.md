@@ -26,17 +26,12 @@ This project analyses customer churn and revenue patterns using the IBM Telco Cu
 
 ## Objectives
 
-- Measure the overall customer churn and retention rates.
-- Calculate the company's total monthly revenue.
-- Identify customer segments with higher churn rates.
-- Examine the relationship between customer tenure and churn.
-- Evaluate churn patterns across different contract types.
-- Investigate the relationship between payment methods and customer churn.
-- Identify customer segments that generate the highest monthly revenue.
-- Compare average monthly spending between churned and retained customers.
-- Examine how additional subscribed services relate to customer retention.
-- Identify numerical customer characteristics associated with churn.
-- Develop data-driven recommendations to support customer retention and revenue protection.
+- Import the required Python libraries and load the customer churn dataset.
+- Explore the dataset structure, variables and summary statistics.
+- Clean and prepare the data for analysis.
+- Perform exploratory data analysis on customer demographics, accounts, services and billing.
+- Investigate eleven business questions related to customer churn, retention and revenue.
+- Translate the findings into practical customer-retention recommendations.
 
 
 ## Dataset
