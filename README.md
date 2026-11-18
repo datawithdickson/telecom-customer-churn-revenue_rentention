@@ -595,7 +595,7 @@ The project includes the following analytical deliverables:
 
 ## Conclusion
 
-The analysis indicates that customer churn is associated with several customer characteristics and account related factors. New customers, month-to-month contract subscribers, electronic check users and customers without additional services represent important areas for further investigation.
+The analysis indicates that customer churn is associated with several customer characteristics and account-related factors. New customers, month-to-month contract subscribers, electronic check users and customers without additional services represent important areas for further investigation.
 
 The findings also show that churned customers have higher average monthly charges than retained customers, highlighting the importance of understanding customer value perceptions and pricing.
 
