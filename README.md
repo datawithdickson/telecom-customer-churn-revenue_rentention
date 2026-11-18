@@ -19,37 +19,31 @@ Power BI was used to develop an interactive dashboard for monitoring customer ch
 ### Power BI Dashboard 
 
 - [Dashboard preview](https://github.com/datawithdickson/telecom-customer-churn-revenue_rentention/blob/main/Dashboard.png)
-- [Download Power BI Dashboard (.pbix)](Dashboard/IBM%20telecom%20project.pbix)
+- [Download the Power BI report (.pbix)](Dashboard/IBM%20telecom%20project.pbix)
 
-## Overview
-
-Customer churn is a major challenge for subscription-based businesses because losing customers can reduce recurring revenue and increase the cost of acquiring new customers.
-
+## Overview 
 This project analyses customer churn and revenue patterns using the IBM Telco Customer Churn dataset. The analysis explores customer demographics, account information, subscribed services, payment methods and billing behaviour to identify characteristics associated with customer churn.
-
-Python was used to perform data cleaning, exploratory data analysis and business-focused investigations, while Power BI was used to present key performance indicators and analytical findings through an interactive dashboard.
-
-The ultimate goal is to provide management with insights that can support customer retention initiatives and revenue protection.
-
 
 ## Objectives
 
-1. Measure the overall customer churn and retention rates.
-2. Calculate the company's total monthly revenue.
-3. Identify customer segments with higher churn rates.
-4. Examine the relationship between customer tenure and churn.
-5. Evaluate churn patterns across different contract types.
-6. Investigate the relationship between payment methods and customer churn.
-7. Identify customer segments that generate the highest monthly revenue.
-8. Compare average monthly spending between churned and retained customers.
-9. Examine how additional subscribed services relate to customer retention.
-10. Identify numerical customer characteristics associated with churn.
-11. Develop data-driven recommendations to support customer retention and revenue protection.
+- Measure the overall customer churn and retention rates.
+- Calculate the company's total monthly revenue.
+- Identify customer segments with higher churn rates.
+- Examine the relationship between customer tenure and churn.
+- Evaluate churn patterns across different contract types.
+- Investigate the relationship between payment methods and customer churn.
+- Identify customer segments that generate the highest monthly revenue.
+- Compare average monthly spending between churned and retained customers.
+- Examine how additional subscribed services relate to customer retention.
+- Identify numerical customer characteristics associated with churn.
+- Develop data-driven recommendations to support customer retention and revenue protection.
 
 
 ## Dataset
 
-**Dataset:** IBM Telco Customer Churn
+The data for this project is sourced from the Kaggle dataset:
+
+- **Dataset Link:** IBM Telco Customer Churn
 
 The dataset contains customer-level information covering demographics, account details, subscribed services, billing information and churn status.
 
