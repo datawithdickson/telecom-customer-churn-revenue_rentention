@@ -1,6 +1,6 @@
 # Telecom Customer Churn & Revenue Retention Analysis
 
-![Project Cover](https://github.com/datawithdickson/telecom-customer-churn-revenue_rentention/blob/main/thedigitalartist-earth-3866609_1920.jpg)
+![Project Cover](https://github.com/datawithdickson/telecom-customer-churn-revenue_rentention/blob/main/global-network-connectivity-modern-city-skyline-sunset.jpg)
 
 ## Project Components
 
